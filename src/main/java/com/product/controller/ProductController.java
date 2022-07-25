@@ -1,4 +1,4 @@
-package com.product.resource;
+package com.product.controller;
 
 import java.util.ArrayList;
 import java.util.List;
